@@ -1,0 +1,33 @@
+.header-container{
+    text-align: center;
+    background-color:aqua;
+    color:black;
+    padding:0.1px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+
+body{
+    margin:0px;
+    position: fixed;
+    
+}
+
+.main-container{
+    display: flex;
+    background-color:rgb(7, 15, 15);
+    color:whitesmoke;
+    
+}
+
+.image{
+    width:50%;
+    height: 75vh;
+}
+
+.main-content{
+    margin: 10px;
+    font-size: medium;
+    
+}
